@@ -37,3 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 https://projetoreact-k6kbe1g3y-lourencol18s-projects.vercel.app
 https://verbose-parakeet-g4xxgvx5wx56h9qxw-3000.app.github.dev
+
+https://projetoreact-five.vercel.app/tecnologias
